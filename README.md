@@ -1,4 +1,4 @@
-# NMT-React :us: :de:
+# NMT-React
 
 
 ![Screen Preview](https://raw.githubusercontent.com/freetechno128/nmt-react/master/preview.png)
