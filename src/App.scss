@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  overflow: hidden;
+}
+
+.navbar-logo {
+  color: black;
+  font-size: 26px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  margin: 0px;
+
+}
+
+.navbar-logo-end-bs {
+  color: #FF6584;
+  font-size: 26px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  margin-left: 5px;
+}
+
+.navbar-button {
+  color: rgb(63, 63, 63);
+  display: inline-block;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  border: 0;
+  border-radius: 8px;
+  white-space: nowrap;
+  padding: 10px 16px 10px 16px;
+  line-height: 1.4;
+  text-align: center;
+  -webkit-transition: .07s;
+  transition: .07s;
+  position: relative;
+  text-decoration: none;
+  font-size: 14px;
+
+  &:hover {
+    color: #FF6584;
+    text-decoration: none;
+  }
+
+}
