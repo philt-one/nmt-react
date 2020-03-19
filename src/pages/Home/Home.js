@@ -12,12 +12,12 @@ const Home = () => {
                         <div className="title">The future of translation</div>
                         <div className="paragraph">
                             This tool based under a Neural Machine Translation technology will
-                            help you translate English to the non-sense German language.
+                            help you translate English to German.
                             <br/>
                             <br/>
                             The frontend uses ReactJS to dynamically render the DOM and Bootstrap
                             to make the website responsive. The backend is written in Python using
-                            Flask to easily define the endpoints. The machine learning model uses a model built using TensorFlow and OpenNMT.
+                            Flask to easily define the API endpoints. The machine learning model was built using TensorFlow and OpenNMT.
                         </div>
                     </div>
                     <div className="col-md-6 my-4 d-none d-lg-block">
