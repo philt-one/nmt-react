@@ -23,6 +23,8 @@ Then you'll need to install the dependencied for the frontend. We will use yarn 
 yarn install
 ```
 
+Download the pretrained OpenNMT model by executing the `setup.sh` script.
+
 ### :rocket: Starting the Frontend
 
 To start the frontend, simply go in the root of the project (`./nmt-react`) and type  `yarn start`.
