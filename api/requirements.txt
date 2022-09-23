@@ -24,7 +24,7 @@ oauthlib==3.1.0
 OpenNMT-tf==2.8.0
 opt-einsum==3.2.0
 portalocker==1.5.2
-protobuf==3.11.3
+protobuf==3.18.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyonmttok==1.10.1
